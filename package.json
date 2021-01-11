@@ -1,0 +1,31 @@
+{
+  "name": "everywhere-at-the-end-of-time",
+  "version": "1.0.0",
+  "description": "Discord bot for SitePoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michiel Mulders",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mvb1122/Everywhere-At-The-End-Of-Time.git"
+  },
+  "keywords": [
+    "Everywhere",
+    "at",
+    "the",
+    "end",
+    "of",
+    "time"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mvb1122/Everywhere-At-The-End-Of-Time/issues"
+  },
+  "homepage": "https://github.com/Mvb1122/Everywhere-At-The-End-Of-Time#readme"
+}
